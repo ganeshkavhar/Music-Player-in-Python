@@ -1,7 +1,6 @@
 # Music-Player-in-Python
 
 
-# Building Music Player using Tkinter, Pygame in Python
 
 Put a Songs in folder and play !!
 
